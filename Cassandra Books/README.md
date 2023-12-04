@@ -1,4 +1,4 @@
-# App de libros con Cassandra
+# App de libros con Spring Boot+Apache Cassandra
 
 Prerequisites:
 1. JDK and IDE installed on your machine
